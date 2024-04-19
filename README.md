@@ -1,1 +1,1 @@
-👋 Hi! This is a code repository that I use for remote uploading code that I dev in WSL2 Debian 11, code that is useful to have online when starting projects, or for reading the notes about the build choices or the usage.
+👋 Hi! This is a code repository that I (sometimes) use for remote uploading code that I dev locally, code that is useful to have online.
